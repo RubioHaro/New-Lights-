@@ -1,0 +1,37 @@
+/*DIGITAL LEARNING*/
+
+body {    
+    background-image: url('../Img/Backgrounds/background-grey.jpg');
+    background-size: cover; 
+    background-attachment: fixed;
+}
+
+
+.jumbotron{   
+    background-color: transparent !important;
+    color: black;
+}
+
+
+.navbar{
+    background-color: #672480;
+}
+
+.navbar-brand:link, .navbar-brand:visited {
+    color:white !important;
+}
+.navbar-brand:hover, .navbar-brand:active {
+    color: #cccccc   !important;
+}
+
+#navbar li a:link, #navbar li a:visited{
+    color: white !important;
+}
+
+#navbar li a:hover, #navbar li a:active{
+    color: #cccccc !important;
+}
+
+/*RUBIO HARO RODRIGO RODOLFO */
+
+
